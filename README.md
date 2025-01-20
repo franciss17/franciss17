@@ -31,12 +31,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/franciss17/franciss17/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/franciss17/count.svg?"  />
 </div>
